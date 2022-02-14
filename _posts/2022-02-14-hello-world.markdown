@@ -7,3 +7,5 @@ img: https://github.com/trajectoryofstar/trajectoryofstar.github.io/tree/master/
 fig-caption: # Add figcaption (optional)
 tags: [Seoul]
 ---
+
+Hello. New world for computer science & statistics!! 
