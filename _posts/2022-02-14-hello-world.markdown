@@ -11,3 +11,4 @@ tags: [Seoul]
 Hello. New world for computer science & statistics!! 
 
 {% gist trajectoryofstar/b29862325bef1069c704ed9af343aeaa.js %}
+
