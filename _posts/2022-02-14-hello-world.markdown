@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Seoul]
 ---
 
-Hello. New world for computer science & statistics!! 
+Hello. New world for computer science & statistics!!!
 
 {% gist trajectoryofstar/73883c6733d567437c0dec80284d13e5 %}
 
