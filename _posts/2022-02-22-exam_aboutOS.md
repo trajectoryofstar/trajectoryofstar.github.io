@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OS in python 
-date: 2021-02-22 00:35
+date: 2022-02-22 00:35
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
