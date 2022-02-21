@@ -23,10 +23,10 @@ ex)
 2. 디렉토리 생성 - 리눅스 mkdir 
 3. 특정 디렉토리 내의 파일 목록 - 리눅스 ls 
 
-2. os.getcwd()
+4. os.getcwd()
 - 현재 주소 불러옴.
 
-3. os.listdir()
+5. os.listdir()
 - 현재 존재하는 파일 목록 호출 
 
 ```python
